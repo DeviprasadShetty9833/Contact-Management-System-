@@ -1,10 +1,8 @@
 # Contact-Management-System-
-
 <br> Author: Deviprasad Shetty
 <br> 
 
 # Overview
-
 <br> This is a simple yet effective Contact Management System built in C, focusing on practical use of File Handling.
 <br> The system allows users to manage a contact list — add, view, delete contacts — while ensuring data is stored persistently in a file.
 <br> 
@@ -12,7 +10,6 @@
 <br> 
 
 # Key Features
-
 <br> 1. Add Contact
 <br> Add new contacts (Name, Phone Number, Email, etc.) to the system.
 <br> The contact data is saved persistently using text/binary file storage.
@@ -31,9 +28,7 @@
 <br> 
 
 # Concepts Used
-
 <br> Programming Language: C (Standard C99)
-
 <br> Core Concepts:
 <br> File Handling (fopen, fread, fwrite, fseek, fprintf, fscanf)
 <br> Temporary backup for Undo functionality
