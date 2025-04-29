@@ -45,3 +45,5 @@
 # File Format:
 <br> Text File (.txt) or Binary File (.bin) for storing contact information persistently.
 
+# Output:
+![image alt](https://github.com/DeviprasadShetty9833/Contact-Management-System-/blob/1ac95dab201e666cbeed471f977b3e0485c59e22/Output1.png)
