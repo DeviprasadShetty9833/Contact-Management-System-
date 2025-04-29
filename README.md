@@ -30,10 +30,10 @@
 # Concepts Used
 <br> Programming Language: C (Standard C99)
 <br> Core Concepts:
-<br> File Handling (fopen, fread, fwrite, fseek, fprintf, fscanf)
-<br> Temporary backup for Undo functionality
-<br> Command Line Interface (CLI)
-<br> Dynamic Memory Management (malloc, free)
+<br> 1. File Handling (fopen, fread, fwrite, fseek, fprintf, fscanf)
+<br> 2. Temporary backup for Undo functionality
+<br> 3. Command Line Interface (CLI)
+<br> 4. Dynamic Memory Management (malloc, free)
 <br> 
 
 # File Format:
