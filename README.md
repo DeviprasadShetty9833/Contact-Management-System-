@@ -2,6 +2,12 @@
 <br> Author: Deviprasad Shetty
 <br> 
 
+# My Intro
+<br> Hi, 😃👋 Myself Deviprasad Shetty highly passionate for coding, learning and exploring new fields in Computer Science domain. 
+<br> I'm excited 😃 to dive deeper into my technical skills, collaborate with others, and take on projects that challenge me to grow. 
+<br> Always eager to learn and connect with others who share similar interests! 🤗🧑‍💻
+<br> 
+
 # Overview
 <br> This is a simple yet effective Contact Management System built in C, focusing on practical use of File Handling.
 <br> The system allows users to manage a contact list — add, view, delete contacts — while ensuring data is stored persistently in a file.
