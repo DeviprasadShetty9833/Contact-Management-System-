@@ -39,6 +39,7 @@
 
 # Concepts Used
 <br> Programming Language: C (Standard C99)
+
 <br> Core Concepts:
 <br> ⊡⁠ File Handling (fopen, fread, fwrite, fseek, fprintf, fscanf)
 <br> ⊡⁠ Temporary backup for Undo functionality
