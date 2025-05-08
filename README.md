@@ -2,7 +2,7 @@
 <br> Author: Deviprasad Shetty
 <br> 
 
-# My Intro
+# My Intro:
 <br> Hi, 😃👋 Myself Deviprasad Shetty highly passionate for coding, learning and exploring new fields in Computer Science domain. 
 <br> I'm excited 😃 to dive deeper into my technical skills, collaborate with others, and take on projects that challenge me to grow. 
 <br> Always eager to learn and connect with others who share similar interests! 🤗🧑‍💻
@@ -12,14 +12,14 @@
 <br> ⊡⁠ [Portfolio](https://github.com/DeviprasadShetty9833/My_Portfolio)
 <br> 
 
-# Overview
+# Overview:
 <br> This is a simple yet effective Contact Management System built in C, focusing on practical use of File Handling.
 <br> The system allows users to manage a contact list — add, view, delete contacts — while ensuring data is stored persistently in a file.
 <br> 
 <br> Additionally, it implements an Undo Last Deletion feature using a temporary backup mechanism to restore accidentally deleted contacts.
 <br> 
 
-# Key Features
+# Key Features:
 <br> 1. Add Contact
 <br> Add new contacts (Name, Phone Number, Email, etc.) to the system.
 <br> The contact data is saved persistently using text/binary file storage.
@@ -37,7 +37,7 @@
 <br> Allows restoring the last deleted contact with a simple undo operation.
 <br> 
 
-# Concepts Used
+# Concepts Used:
 <br> Programming Language: C (Standard C99)
 
 <br> Core Concepts:
