@@ -1,20 +1,17 @@
----
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+# Features Table
 
----
+This table lists all the key features of the project to be added, their status, and related details. Below some examples are provided in the table.
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+| Sr.No. | **Feature** | **Description** | **Implemented By** | **Status** | **Priority** | **Date Added** | **Notes** |
+|--------|-------------|-----------------|--------------------|------------|--------------|----------------|-----------|
+|        | Restaurant Menu | Dynamic menu display with images | @jane-dev | Completed | High | 2025-05-07 | Needs category filters |
+|        | Cart System | Add/remove items from cart | @alex99 | Pending | Medium | 2025-05-07 | Linked with menu system |
+|        | Customer Feedback | Allow users to rate food & service | @ui-artist | In Progress | Low | 2025-05-07 | UI mockup ready |
+|  |
+| 1.| Feature | Description | @username | Status | Priority | Date | Notes |
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+> **Legend**:  
+> - **Status**: `Planned`, `Pending`, `In Progress`, `Completed`  
+> - **Priority**: `Low`, `Medium`, `High`, `Critical`
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+> **Note**: 1) To add a new feature, copy an existing row and modify the values. 2) Make sure to update the status.
