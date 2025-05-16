@@ -35,8 +35,7 @@
 <br> Remove a contact based on a unique identifier (like name or phone number).
 <br> Updates the file after deletion to maintain consistency.
 <br> 
-<br> 4. Undo Last Deleted Contact
-![4.](https://img.shields.io/badge/4.-Undo%20Last%20Deleted%20Contact-blue?style=for-the-badge&labelColor=white)
+<br> ![4.](https://img.shields.io/badge/4.-Undo%20Last%20Deleted%20Contact-blue?style=for-the-badge&labelColor=white)
 <br> Before any delete operation, the deleted contact is temporarily stored.
 <br> Allows restoring the last deleted contact with a simple undo operation.
 <br> 
