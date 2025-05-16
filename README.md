@@ -23,19 +23,19 @@
 
 # Key Features:
 
-<br> ![1.](https://img.shields.io/badge/1.-Add%20Contact-blue?style=for-the-badge&labelColor=white)
+<br> ![1.](https://img.shields.io/badge/1.-Add%20Contact-00599C?style=for-the-badge&labelColor=white)
 <br> Add new contacts (Name, Phone Number, Email, etc.) to the system.
 <br> The contact data is saved persistently using text/binary file storage.
 <br> 
-<br> ![2.](https://img.shields.io/badge/2.-View%20Contacts-blue?style=for-the-badge&labelColor=white)
+<br> ![2.](https://img.shields.io/badge/2.-View%20Contacts-00599C?style=for-the-badge&labelColor=white)
 <br> Display all saved contacts by reading from the file.
 <br> Ensures that the latest state of the contact list is shown.
 <br> 
-<br> ![3.](https://img.shields.io/badge/3.-Delete%20Contact-blue?style=for-the-badge&labelColor=white)
+<br> ![3.](https://img.shields.io/badge/3.-Delete%20Contact-00599C?style=for-the-badge&labelColor=white)
 <br> Remove a contact based on a unique identifier (like name or phone number).
 <br> Updates the file after deletion to maintain consistency.
 <br> 
-<br> ![4.](https://img.shields.io/badge/4.-Undo%20Last%20Deleted%20Contact-blue?style=for-the-badge&labelColor=white)
+<br> ![4.](https://img.shields.io/badge/4.-Undo%20Last%20Deleted%20Contact-00599C?style=for-the-badge&labelColor=white)
 <br> Before any delete operation, the deleted contact is temporarily stored.
 <br> Allows restoring the last deleted contact with a simple undo operation.
 <br> 
