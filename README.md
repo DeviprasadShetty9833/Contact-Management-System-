@@ -57,7 +57,7 @@
 
 # How to use:
 
-<br> 1. Copy the source code from the file : [src.c](https://github.com/DeviprasadShetty9833/Cube.c/blob/main/src.c) 
+<br> 1. Copy the source code from the file : [src.c](https://github.com/DeviprasadShetty9833/Contact_Management_System/blob/main/src.c) 
 <br> 2. Open any of the recommended online C compilers : (e.g., [CodeChef](https://www.codechef.com/c-online-compiler), [Python Tutor](https://pythontutor.com/c.html#mode=edit), [OnlineGDB](https://www.onlinegdb.com/online_c_compiler), [Programiz](https://www.programiz.com/c-programming/online-compiler/), [OneCompiler](https://onecompiler.com/c), etc.)
 <br> 3. Paste the copied code into the editor.
 <br> 4. Click the **RUN** / **Visualise Execution** button to execute the program.
