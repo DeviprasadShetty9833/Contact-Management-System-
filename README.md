@@ -80,6 +80,5 @@ If you like ❤️ this project, give it a ⭐ (Top right of page) and share it 
 
 ---
 
-| [![TOP](https://img.shields.io/badge/_🔺_-Navigate_to_TOP_↑_-blue?style=for-the-badge&labelColor=white)](#Overview) |
-|---|
-
+| [![TOP](https://img.shields.io/badge/_🔺_-Navigate_to_TOP_↑_-blue?style=for-the-badge&labelColor=white)](#Overview) | [![Website](https://img.shields.io/badge/Back_to-Website-indigo?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com/) |[![My Portfolio](https://img.shields.io/badge/Back_to-My_Portfolio-000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/DeviprasadShetty9833/My_Portfolio) |
+|---|---|---|
