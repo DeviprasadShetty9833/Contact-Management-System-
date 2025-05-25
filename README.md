@@ -51,6 +51,20 @@
 <br> ⊡⁠ Dynamic Memory Management (malloc, free)
 <br> 
 
+<br> Data Structures Used:
+<br> ⊡⁠ Binary Search Tree (for Book Database)
+<br> ⊡⁠ Singly Linked List (for Borrowed Books)
+<br> ⊡⁠ Stack (for Undo functionality)
+<br> ⊡⁠ CLI-based Interface
+<br> ⊡⁠ Dynamic Memory Management (malloc, free)
+<br> 
+
+# Algorithms:
+
+<br> ⊡⁠ Insertion, Deletion, In-order Traversal in BST
+<br> ⊡⁠ Linked List insertion, status tracking
+<br> ⊡⁠ Stack push/pop for undo feature
+
 # File Format:
 
 <br> Text File (.txt) or Binary File (.bin) for storing contact information persistently.
