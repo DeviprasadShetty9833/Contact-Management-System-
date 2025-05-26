@@ -40,7 +40,7 @@
 <br> Allows restoring the last deleted contact with a simple undo operation.
 <br> 
 
-Search Contact
+5. Search Contact
 
 # Concepts Used:
 
